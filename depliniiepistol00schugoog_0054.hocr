@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depliniiepistol00schugoog_0054.png"; bbox 0 0 3228 5090; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 596 2209 886 2314">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 596 2209 886 2314">
+     <span class='ocr_line' id='line_1_1' title="bbox 596 2209 886 2314; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 596 2209 886 2314; x_wconf 39' lang='grc' dir='ltr'><strong>ΜΖΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 479 2365 1011 2478">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 479 2365 1011 2478">
+     <span class='ocr_line' id='line_1_2' title="bbox 479 2365 1011 2418; baseline -0.009 -6"><span class='ocrx_word' id='word_1_2' title='bbox 479 2367 559 2412; x_wconf 76' lang='lat' dir='ltr'><strong>Druck</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 575 2377 624 2411; x_wconf 88' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 640 2365 694 2410; x_wconf 74' lang='lat' dir='ltr'>carl</span> <span class='ocrx_word' id='word_1_5' title='bbox 709 2365 829 2408; x_wconf 77' lang='lat' dir='ltr'><strong>Salewski</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 843 2365 868 2408; x_wconf 84' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 883 2365 965 2408; x_wconf 81' lang='lat' dir='ltr'><strong>Berlin</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 981 2366 1011 2418; x_wconf 78' lang='grc'><strong>0.,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 572 2433 917 2478; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 572 2435 638 2478; x_wconf 81' lang='lat' dir='ltr'>Neue</span> <span class='ocrx_word' id='word_1_10' title='bbox 654 2433 917 2478; x_wconf 73' lang='lat' dir='ltr'><strong>Friedl·iehst1·asse44.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 595 2540 889 2646">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 595 2540 889 2646">
+     <span class='ocr_line' id='line_1_4' title="bbox 595 2540 889 2646; baseline 0 -52"><span class='ocrx_word' id='word_1_11' title='bbox 595 2540 889 2646; x_wconf 37' lang='lat' dir='ltr'><strong>&amp;wlff-W</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1618 5090">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1618 5090">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1618 5090; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1618 5090; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
